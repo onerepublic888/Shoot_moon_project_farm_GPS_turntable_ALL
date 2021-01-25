@@ -11,6 +11,7 @@
 ![image](擷取3.PNG)
 
 ### Outdoor Experiment Demo @ NTU安康農場
+將即時資料傳輸率以及定位座標透過Node-Red顯示
 ![image](擷取7.PNG)
 
 ### Outdoor Experiment Result
@@ -20,4 +21,5 @@
 ### 結論
 
 1.透過GPS定位及自動轉台達到全方位即時影像傳輸。
+
 2.已達到多個FHD 相機即時影像傳輸，後續可在基站上做影像拼接，達成4K/8K即時影像傳輸。
