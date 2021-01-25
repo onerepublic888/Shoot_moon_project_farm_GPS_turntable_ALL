@@ -11,7 +11,7 @@
 ![image](擷取3.PNG)
 
 ### Outdoor Experiment Demo @ NTU安康農場
-
+![image](擷取7.PNG)
 
 ### Outdoor Experiment Result
 ![image](擷取6.PNG)
